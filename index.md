@@ -1,91 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Carlos Uriel Dominguez Ruiz Diaz CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Carlos Uriel Dominguez Ruiz Diaz
+Desarrollador Web Junior.
+
+
+<img src="https://i.postimg.cc/GpxFf5pq/Carlos-2022.png" alt="alt text" title="Carlos Uriel 2022" width="150"/>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="carluitosgfx@gmail.com">carluitosgfx@gmail.com</a>
+
+<a>640 64 54 69</a>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Por terminar contrato en empresa de Madrid por causas economicas de la compañia, teletrabajando como programador backend .NET
 
 
-### Research interests
+### Especializado en
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Microservicios, Clean Architecture, DDD, TDD, BDD SCRUM, Testing, UI Testing, Arquitectura Modular, Arquitectura Basada en Eventos, Modularización, Diseño de Software, Patrones de Software, Stripe Payments.
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+## Aptitudes
+- Trabajo en equipo.
+- Resolución de problemas.
+- Esfuerzo y dedicación.
+- Entregar calidad.
+- Capacidad de superacion.
 
 
-## Publications
+## Educación
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2018-2020`
+__Formación Profesional Grado Medio Microsistemas Informaticos y Redes__
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020-2022`
+__Formación Profesional Grado Superior Dual Desarrollo Aplicaciones Web__
 
 
-## Occupation
+## Experiencia Laboral en el sector tecnológico
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Abril 2021 - Diciembre 2022`
+Desarrollador Web Backend .NET para ZigZag (Empresa Desarrollo Software a medida por encargo Madrid)
 
 
+### Breve resumen explicando ultima experiencia laboral.
 
-<!-- ### Footer
+En este ultimo año y medio / 2 años, me he estado formando y trabajando en un entorno de trabajo de desarrollo de software en el que lo mas importaba era la calidad del producto final.
 
-Last updated: May 2013 -->
+Intentando tomar siempre las mejores decisiones, las mas optimas y siempre intentando usar buenas practicas.
 
+Siempre con un previo analisis y planificación previa del dominio de la aplicacion a desarrollar con Notion y mapas de Event Storming.
 
+Mi trabajo siempre ha estado centrado en el desarrollo de API's .NET basadas en microservicios, con una arquitectura limpia mezclando "lo mejor de todas las buenas opciones", por lo que llegamos a conseguir una arch bastante robusta y clara con la que era super eficiente y ágil trabajar tambien muy facil de extender y hacer escalar todo en conjunto.
+
+Dependiendo del tipo de proyecto se tomaban unas decisiones u otras, dependiendo sobretodo y pensando en la carga final de usuarios que iban a tener que manejar.
+
+He estado tocando puntualmente entornos de front-end pero totalmente mi experiencia esta en el back-end.
