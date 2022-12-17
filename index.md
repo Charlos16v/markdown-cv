@@ -3,6 +3,8 @@ layout: cv
 title: Carlos Uriel Dominguez Ruiz Diaz CV
 ---
 # Carlos Uriel Dominguez Ruiz Diaz
+
+<br>
 Desarrollador Web Junior.
 
 
@@ -10,7 +12,7 @@ Desarrollador Web Junior.
 
 <div id="webaddress">
 <a href="carluitosgfx@gmail.com">carluitosgfx@gmail.com</a>
-
+<br>
 <a>640 64 54 69</a>
 </div>
 
