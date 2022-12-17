@@ -46,7 +46,7 @@ __Formación Profesional Grado Superior Dual Desarrollo Aplicaciones Web__
 
 ## Experiencia Laboral en el sector tecnológico
 
-`Abril 2021 - Diciembre 2022`
+`2021 - 2022`
 Desarrollador Web Backend .NET para ZigZag (Empresa Desarrollo Software a medida por encargo Madrid)
 
 
