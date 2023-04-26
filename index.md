@@ -5,7 +5,7 @@ title: Carlos Uriel Dominguez Ruiz Diaz CV
 # Carlos Uriel Dominguez Ruiz Diaz
 
 <br>
-Desarrollador Web Junior.
+Desarrollador Web.
 
 
 <img src="https://i.postimg.cc/GpxFf5pq/Carlos-2022.png" alt="alt text" title="Carlos Uriel 2022" width="150"/>
@@ -19,7 +19,7 @@ Desarrollador Web Junior.
 
 ## Actualmente
 
-Por terminar contrato en empresa de Madrid por causas economicas de la compañia, teletrabajando como programador backend .NET
+En busca de 
 
 
 ### Especializado en
