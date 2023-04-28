@@ -1,8 +1,3 @@
----
-layout: cv
-title: Carlos Uriel Dominguez Ruiz Diaz CV
----
-
 # Carlos Uriel Dominguez Ruiz Diaz
 
 Desarrollador Web.
@@ -14,10 +9,6 @@ Desarrollador Web.
 <br>
 <a href="tel:640645469">640 64 54 69</a>
 </div>
-
-## Actualmente
-
-En busca de empleo.
 
 ### Especializado en
 
