@@ -2,64 +2,78 @@
 layout: cv
 title: Carlos Uriel Dominguez Ruiz Diaz CV
 ---
+
 # Carlos Uriel Dominguez Ruiz Diaz
 
-<br>
 Desarrollador Web.
 
-
-<img src="https://i.postimg.cc/GpxFf5pq/Carlos-2022.png" alt="alt text" title="Carlos Uriel 2022" width="150"/>
+![Carlos Uriel 2022](https://i.postimg.cc/GpxFf5pq/Carlos-2022.png)
 
 <div id="webaddress">
-<a href="carluitosgfx@gmail.com">carluitosgfx@gmail.com</a>
+<a href="mailto:carluitosgfx@gmail.com">carluitosgfx@gmail.com</a>
 <br>
-<a>640 64 54 69</a>
+<a href="tel:640645469">640 64 54 69</a>
 </div>
-
 
 ## Actualmente
 
-En busca de 
-
+En busca de empleo.
 
 ### Especializado en
 
-Microservicios, Clean Architecture, DDD, TDD, BDD SCRUM, Testing, UI Testing, Arquitectura Modular, Arquitectura Basada en Eventos, Modularización, Diseño de Software, Patrones de Software, Stripe Payments.
+Microservicios, Clean Architecture, DDD, TDD, BDD, SCRUM, Testing, UI Testing, Arquitectura Modular, Arquitectura Basada en Eventos, Modularización, Diseño de Software, Patrones de Software, Stripe Payments.
 
+### Tecnologías, lenguajes, herramientas...
+
+- C#
+- ASP.NET
+- MediatR
+- IdentityService
+- MySQL
+- PostgreSQL
+- Docker
+- RabbitMQ
+- JavaScript
+- TypeScript
+- Svelte
+- gRPC
+- OAuth
+- npm
+- Jetbrains Rider
+- Visual Studio Code
+- Postman
+- NUnit
+- Specflow
+- Playwright
 
 ## Aptitudes
+
 - Trabajo en equipo.
 - Resolución de problemas.
 - Esfuerzo y dedicación.
 - Entregar calidad.
-- Capacidad de superacion.
-
+- Capacidad de superación.
 
 ## Educación
 
 `2018-2020`
-__Formación Profesional Grado Medio Microsistemas Informaticos y Redes__
+__Formación Profesional Grado Medio Microsistemas Informáticos y Redes__
 
 `2020-2022`
 __Formación Profesional Grado Superior Dual Desarrollo Aplicaciones Web__
 
-
-## Experiencia Laboral en el sector tecnológico
+## Experiencia Laboral como desarrollador
 
 `2021 - 2022`
-Desarrollador Web Backend .NET para ZigZag (Empresa Desarrollo Software a medida por encargo Madrid)
+Desarrollador Web Backend .NET para ZigZag (Empresa Desarrollo Aplicaciones Web a medida por encargo Madrid)
 
+`2023 - 2023`
+Desarrollador Web FullStack Svelte + TypeScript + RPC en TippingService (Empresa Desarrollo Aplicaciones Web Mallorca)
 
-### Breve resumen explicando ultima experiencia laboral.
+### Breve resumen explicando experiencia laboral
 
-En este ultimo año y medio / 2 años, me he estado formando y trabajando en un entorno de trabajo de desarrollo de software en el que lo mas importaba era la calidad del producto final.
+Durante el último año y medio, he estado trabajando en un entorno de desarrollo de software en el que la calidad del producto final era lo más importante. Siempre he intentado tomar las mejores decisiones, las más óptimas y siempre intentando seguir buenas prácticas.
 
-Intentando tomar siempre las mejores decisiones, las mas optimas y siempre intentando usar buenas practicas.
+Mi trabajo se ha centrado en el desarrollo de API's .NET basadas en microservicios, con una arquitectura limpia que mezcla lo mejor de todas las opciones disponibles, lo que ha permitido conseguir una arquitectura bastante robusta y clara, eficiente y fácil de escalar. Dependiendo del tipo de proyecto se tomaron decisiones diferentes, siempre pensando en la carga final de usuarios que iban a tener que manejar.
 
-Siempre con un previo analisis y planificación previa del dominio de la aplicacion a desarrollar con Notion y mapas de Event Storming.
-
-Mi trabajo siempre ha estado centrado en el desarrollo de API's .NET basadas en microservicios, con una arquitectura limpia mezclando "lo mejor de todas las buenas opciones", por lo que llegamos a conseguir una arch bastante robusta y clara con la que era super eficiente y ágil trabajar tambien muy facil de extender y hacer escalar todo en conjunto.
-
-Dependiendo del tipo de proyecto se tomaban unas decisiones u otras, dependiendo sobretodo y pensando en la carga final de usuarios que iban a tener que manejar.
-
-He estado tocando puntualmente entornos de front-end pero totalmente mi experiencia esta en el back-end.
+He trabajado puntualmente en entornos de front-end, pero mi experiencia se centra principalmente en el back-end.
