@@ -7,7 +7,7 @@ title: Carlos Uriel Dominguez Ruiz Diaz CV
 
 Desarrollador Web.
 
-![Carlos Uriel 2022](https://i.postimg.cc/GpxFf5pq/Carlos-2022.png)
+<img src="https://i.postimg.cc/GpxFf5pq/Carlos-2022.png" height="150">
 
 <div id="webaddress">
 <a href="mailto:carluitosgfx@gmail.com">carluitosgfx@gmail.com</a>
