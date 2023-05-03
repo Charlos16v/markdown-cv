@@ -61,7 +61,7 @@ __Dual Advanced Degree in Web Application Development__
 `2023 - 2023`
 FullStack Web Developer Svelte + TypeScript + RPC at TippingService (Web Application Development Company in Mallorca)
 
-During the last year and a half, I have been working in a software development environment where the quality of the final product was the most important thing. I have always tried to make the best decisions, the most optimal ones, and always trying to follow good practices.
+During the last 2 years, I have been working in a software development environment where the quality of the final product was the most important thing. I have always tried to make the best decisions, the most optimal ones, and always trying to follow good practices.
 
 My work has focused on the development of .NET APIs based on microservices, with a clean architecture that mixes the best of all available options, which has allowed us to achieve a fairly robust and clear architecture, efficient and easy to scale. Depending on the type of project, different decisions were made, always thinking about the final load of users that they would have to handle.
 

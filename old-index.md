@@ -61,7 +61,7 @@ Desarrollador Web Backend .NET para ZigZag (Empresa Desarrollo Aplicaciones Web 
 `2023 - 2023`
 Desarrollador Web FullStack Svelte + TypeScript + RPC en TippingService (Empresa Desarrollo Aplicaciones Web Mallorca)
 
-Durante el último año y medio, he estado trabajando en un entorno de desarrollo de software en el que la calidad del producto final era lo más importante. Siempre he intentado tomar las mejores decisiones, las más óptimas y siempre intentando seguir buenas prácticas.
+Durante los ultimos 2 años, he estado trabajando en un entorno de desarrollo de software en el que la calidad del producto final era lo más importante. Siempre he intentado tomar las mejores decisiones, las más óptimas y siempre intentando seguir buenas prácticas.
 
 Mi trabajo se ha centrado en el desarrollo de API's .NET basadas en microservicios, con una arquitectura limpia que mezcla lo mejor de todas las opciones disponibles, lo que ha permitido conseguir una arquitectura bastante robusta y clara, eficiente y fácil de escalar. Dependiendo del tipo de proyecto se tomaron decisiones diferentes, siempre pensando en la carga final de usuarios que iban a tener que manejar.
 
