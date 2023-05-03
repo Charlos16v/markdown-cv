@@ -1,6 +1,6 @@
 # Carlos Uriel Dominguez Ruiz Diaz
 
-Desarrollador Web.
+Web Developer.
 
 <img src="https://i.postimg.cc/GpxFf5pq/Carlos-2022.png" height="150">
 
@@ -10,11 +10,11 @@ Desarrollador Web.
 <a href="tel:640645469">640 64 54 69</a>
 </div>
 
-### Especializado en
+### Specialized in
 
-Microservicios, Clean Architecture, DDD, TDD, BDD, SCRUM, Testing, UI Testing, Arquitectura Modular, Arquitectura Basada en Eventos, Modularización, Diseño de Software, Patrones de Software, Stripe Payments.
+Back-end, Clean Architecture, Microservices, DDD, TDD, BDD, SCRUM, Testing, UI Testing, Modular Architecture, Event-Based Architecture, Modularization, Software Design, Software Patterns, Stripe Payments.
 
-### Tecnologías, lenguajes, herramientas...
+### Technologies, languages, tools...
 
 - C#
 - ASP.NET
@@ -37,34 +37,32 @@ Microservicios, Clean Architecture, DDD, TDD, BDD, SCRUM, Testing, UI Testing, A
 - Specflow
 - Playwright
 
-## Aptitudes
+## Skills
 
-- Trabajo en equipo.
-- Resolución de problemas.
-- Esfuerzo y dedicación.
-- Entregar calidad.
-- Capacidad de superación.
+- Teamwork.
+- Problem solving.
+- Effort and dedication.
+- Delivering quality.
+- Capacity for self-improvement.
 
-## Educación
+## Education
 
 `2018-2020`
-__Formación Profesional Grado Medio Microsistemas Informáticos y Redes__
+__Intermediate Degree in Computer Systems and Networks__
 
 `2020-2022`
-__Formación Profesional Grado Superior Dual Desarrollo Aplicaciones Web__
+__Dual Advanced Degree in Web Application Development__
 
-## Experiencia Laboral como desarrollador
+## Work Experience as a Developer
 
 `2021 - 2022`
-Desarrollador Web Backend .NET para ZigZag (Empresa Desarrollo Aplicaciones Web a medida por encargo Madrid)
+.NET Backend Web Developer for ZigZag (Custom Web Application Development Company in Madrid)
 
 `2023 - 2023`
-Desarrollador Web FullStack Svelte + TypeScript + RPC en TippingService (Empresa Desarrollo Aplicaciones Web Mallorca)
+FullStack Web Developer Svelte + TypeScript + RPC at TippingService (Web Application Development Company in Mallorca)
 
-### Breve resumen explicando experiencia laboral
+During the last year and a half, I have been working in a software development environment where the quality of the final product was the most important thing. I have always tried to make the best decisions, the most optimal ones, and always trying to follow good practices.
 
-Durante el último año y medio, he estado trabajando en un entorno de desarrollo de software en el que la calidad del producto final era lo más importante. Siempre he intentado tomar las mejores decisiones, las más óptimas y siempre intentando seguir buenas prácticas.
+My work has focused on the development of .NET APIs based on microservices, with a clean architecture that mixes the best of all available options, which has allowed us to achieve a fairly robust and clear architecture, efficient and easy to scale. Depending on the type of project, different decisions were made, always thinking about the final load of users that they would have to handle.
 
-Mi trabajo se ha centrado en el desarrollo de API's .NET basadas en microservicios, con una arquitectura limpia que mezcla lo mejor de todas las opciones disponibles, lo que ha permitido conseguir una arquitectura bastante robusta y clara, eficiente y fácil de escalar. Dependiendo del tipo de proyecto se tomaron decisiones diferentes, siempre pensando en la carga final de usuarios que iban a tener que manejar.
-
-He trabajado puntualmente en entornos de front-end, pero mi experiencia se centra principalmente en el back-end.
+I have occasionally worked in front-end environments, but my experience is mainly focused on the back-end.
