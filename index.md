@@ -4,11 +4,16 @@ Web Developer.
 
 <img src="https://i.postimg.cc/GpxFf5pq/Carlos-2022.png" height="150">
 
+
+
+[Github](https://github.com/Charlos16v)
 <div id="webaddress">
 <a href="mailto:carluitosgfx@gmail.com">carluitosgfx@gmail.com</a>
 <br>
 <a href="tel:640645469">640 64 54 69</a>
 </div>
+
+
 
 ### Specialized in
 
@@ -17,6 +22,7 @@ Back-end, Clean Architecture, Microservices, DDD, TDD, BDD, SCRUM, Testing, UI T
 ### Technologies, languages, tools...
 
 - C#
+- Java
 - ASP.NET
 - MediatR
 - IdentityService
@@ -36,6 +42,12 @@ Back-end, Clean Architecture, Microservices, DDD, TDD, BDD, SCRUM, Testing, UI T
 - NUnit
 - Specflow
 - Playwright
+
+### Languages
+
+- Spanish (Native)
+- English (Fluent)
+- Catalan (Native)
 
 ## Skills
 
