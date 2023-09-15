@@ -12,6 +12,8 @@ Web Developer.
 <br>
 <a href="tel:640645469">640 64 54 69</a>
 </div>
+<a>c/ murta 32 bajos</a>
+</div>
 
 
 
@@ -23,6 +25,9 @@ Back-end, Clean Architecture, Microservices, DDD, TDD, BDD, SCRUM, Testing, UI T
 
 - C#
 - Java
+- JavaScript
+- NodeJS
+- TypeScript
 - ASP.NET
 - MediatR
 - IdentityService
@@ -30,9 +35,8 @@ Back-end, Clean Architecture, Microservices, DDD, TDD, BDD, SCRUM, Testing, UI T
 - PostgreSQL
 - Docker
 - RabbitMQ
-- JavaScript
-- TypeScript
 - Svelte
+- NestJS
 - gRPC
 - OAuth
 - npm
@@ -73,8 +77,11 @@ __Dual Advanced Degree in Web Application Development__
 `2023 - 2023`
 FullStack Web Developer Svelte + TypeScript + RPC at TippingService (Web Application Development Company in Mallorca)
 
+`2023 - 2023`
+Backend Web Developer NodeJS + Typescript Microservices at Genomcore (low-code solutions builder for precision health)
+
 During the last 2 years, I have been working in a software development environment where the quality of the final product was the most important thing. I have always tried to make the best decisions, the most optimal ones, and always trying to follow good practices.
 
-My work has focused on the development of .NET APIs based on microservices, with a clean architecture that mixes the best of all available options, which has allowed us to achieve a fairly robust and clear architecture, efficient and easy to scale. Depending on the type of project, different decisions were made, always thinking about the final load of users that they would have to handle.
+My work has focused on the development of APIs based on microservices, with a clean architecture that mixes the best of all available options, which has allowed us to achieve a fairly robust and clear architecture, efficient and easy to scale. Depending on the type of project, different decisions were made, always thinking about the aim of the project.
 
 I have occasionally worked in front-end environments, but my experience is mainly focused on the back-end.
